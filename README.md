@@ -31,10 +31,10 @@ I plan to improve this project by:
 - Trying Transformer-based models
 - Improving accuracy and performance
 
-## 📌 Note
+
 This is part of my learning journey in Deep Learning and AI. More advanced versions coming soon!
 
 ---
 
-⭐ If you like this project, feel free to explore and give feedback!
+
 
