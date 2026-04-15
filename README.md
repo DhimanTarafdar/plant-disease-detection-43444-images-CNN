@@ -17,7 +17,7 @@ The goal is to help farmers or users quickly detect diseases and take action.
 Try the app here:  
 https://dhiman22-plant-disease-detection-using-cnn.hf.space/
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - TensorFlow / PyTorch (based on implementation)
 - CNN (Convolutional Neural Network)
