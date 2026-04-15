@@ -2,11 +2,11 @@
 
 This is my deep learning project where I built a **Plant Disease Detection system** using a Convolutional Neural Network (CNN).
 
-## 🚀 Project Overview
+## Project Overview
 In this project, I trained a CNN model to identify plant diseases from leaf images.  
 The goal is to help farmers or users quickly detect diseases and take action.
 
-## 🧠 What I Did
+## What I Did
 - Built a CNN model using deep learning
 - Trained the model on plant leaf images
 - Evaluated performance using accuracy and loss
