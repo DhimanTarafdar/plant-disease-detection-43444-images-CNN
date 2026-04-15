@@ -24,7 +24,7 @@ https://dhiman22-plant-disease-detection-using-cnn.hf.space/
 - Gradio
 - Hugging Face Spaces
 
-## 📈 Future Improvements
+## Future Improvements
 I plan to improve this project by:
 - Using **Transfer Learning**
 - Implementing pretrained models like **VGG16**
