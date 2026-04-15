@@ -13,8 +13,8 @@ The goal is to help farmers or users quickly detect diseases and take action.
 - Created a simple user interface using **Gradio**
 - Deployed the app on **Hugging Face Spaces**
 
-## 🌐 Live Demo
-👉 Try the app here:  
+## Live Demo
+Try the app here:  
 https://dhiman22-plant-disease-detection-using-cnn.hf.space/
 
 ## 🛠️ Technologies Used
