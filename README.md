@@ -1,6 +1,5 @@
-# 🌿 Plant Disease Detection using CNN
+# Plant Disease Detection using CNN
 
-Hi! I'm Dhiman 👋  
 This is my deep learning project where I built a **Plant Disease Detection system** using a Convolutional Neural Network (CNN).
 
 ## 🚀 Project Overview
